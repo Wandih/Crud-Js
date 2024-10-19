@@ -1,0 +1,16 @@
+{
+  "name": "crud-js",
+  "version": "1.0.0",
+  "description": "crud",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "test": "jest --coverage"
+  },
+  "author": "Wandi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "jest": "^29.7.0"
+  }
+}

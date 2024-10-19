@@ -1,2 +1,2 @@
 # Crud-Js
-Fazendo um Crud em Nodejs
+Fazendo um CRUD (Create, Read, Update, Delete) em Nodejs
